@@ -1,28 +1,26 @@
-# GerenciadorDeTarefas
+# ️🗂️ Gerenciador de Tarefas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+- Um gerenciador de tarefas simples e eficiente, desenvolvido com **Angular**, para organizar suas atividades diárias de forma prática e dinâmica.
 
-## Development server
+## 🚀 Tecnologias
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Angular CLI
+- TypeScript
+- HTML e CSS
 
-## Code scaffolding
+## ⚡ Instalação
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
+- `git clone https://github.com/pedrolduarte/gerenciador-de-tarefas-angular.git`
+- `cd gerenciador-de-tarefas-angular`
+- `npm install`
+- `ng serve`
 
-## Build
+## ⚙️ Comandos úteis
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+- Criar um novo componente: `ng generate component nome-do-componente`
+- Executar testes unitários: `ng test`
+- Executar testes end-to-end: `ng e2e`
 
-## Running unit tests
+## 📖 Mais informações
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- Para mais detalhes, execute: `ng help`
